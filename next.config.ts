@@ -2,6 +2,8 @@ import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
   /* config options here */
+  serverExternalPackages: ["mem0ai"],
+
   experimental: {
     agentFeedback: true,
   },
