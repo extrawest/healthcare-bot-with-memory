@@ -11,7 +11,7 @@ The chatbot extracts relevant facts from user messages, stores them in Qdrant Cl
 ## Demo
 
 - **Deployed application:** Not published yet.
-- **Demo video:** Not recorded yet.
+- **Demo video:** [Watch the chatbot demonstration](./demo.mov)
 
 ## Key Features
 

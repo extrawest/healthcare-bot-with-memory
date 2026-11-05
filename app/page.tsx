@@ -91,7 +91,7 @@ export default function Home() {
         )}
       </section>
 
-      <div className="space-y-3">
+      <div className="space-y-3 text-red-500">
         {error && (
           <p role="alert" className="text-sm">
             Error: {error}
@@ -99,7 +99,7 @@ export default function Home() {
         )}
 
         {memoryWarning && (
-          <p role="status" className="text-sm text-neutral-600">
+          <p role="status" className="text- sm text-neutral-600">
             {memoryWarning}
           </p>
         )}
